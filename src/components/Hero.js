@@ -8,8 +8,8 @@ const Hero = () => {
   return <Wrapper className='section-center'>
     <article className='content'>
       <h1>
-        design your <br/>
-        confort zone
+        We enjoy <br/>
+        our Gadgets
       </h1>
       <p>
         Artisan chambray salvia mukbang, narwhal franzen pour-over stumptown tilde normcore. Enamel pin vape pork belly 
